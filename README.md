@@ -38,7 +38,7 @@ A simplified Airbnb-style web application built with Ruby on Rails where users c
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sp1aca9fa/rails-simple-airbnb.git
 cd rails-simple-airbnb
 bundle install
 rails db:create db:migrate db:seed
