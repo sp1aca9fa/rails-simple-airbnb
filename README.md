@@ -17,7 +17,6 @@ A simplified Airbnb-style web application built with Ruby on Rails where users c
 - ERB (Embedded Ruby)
 - Bootstrap & Font Awesome (for styling)
 - Simple Form (for form handling)
-- RSpec (for testing)
 
 ## Data Model
 
@@ -43,12 +42,6 @@ cd rails-simple-airbnb
 bundle install
 rails db:create db:migrate db:seed
 rails server
-```
-
-Run tests:
-
-```bash
-rspec
 ```
 
 Open in your browser:
